@@ -1,0 +1,9 @@
+C:\Users\Korisnik\source\repos\QuestAdventure\Engine\bin\Debug\netcoreapp3.1\Engine.deps.json
+C:\Users\Korisnik\source\repos\QuestAdventure\Engine\bin\Debug\netcoreapp3.1\Engine.dll
+C:\Users\Korisnik\source\repos\QuestAdventure\Engine\bin\Debug\netcoreapp3.1\Engine.pdb
+C:\Users\Korisnik\source\repos\QuestAdventure\Engine\obj\Debug\netcoreapp3.1\Engine.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\QuestAdventure\Engine\obj\Debug\netcoreapp3.1\Engine.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\QuestAdventure\Engine\obj\Debug\netcoreapp3.1\Engine.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\QuestAdventure\Engine\obj\Debug\netcoreapp3.1\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\QuestAdventure\Engine\obj\Debug\netcoreapp3.1\Engine.dll
+C:\Users\Korisnik\source\repos\QuestAdventure\Engine\obj\Debug\netcoreapp3.1\Engine.pdb

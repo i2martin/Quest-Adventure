@@ -1,0 +1,12 @@
+C:\Users\Korisnik\source\repos\QuestAdventure\Engine1\bin\Debug\net5.0\Engine1.deps.json
+C:\Users\Korisnik\source\repos\QuestAdventure\Engine1\bin\Debug\net5.0\Engine1.dll
+C:\Users\Korisnik\source\repos\QuestAdventure\Engine1\bin\Debug\net5.0\ref\Engine1.dll
+C:\Users\Korisnik\source\repos\QuestAdventure\Engine1\bin\Debug\net5.0\Engine1.pdb
+C:\Users\Korisnik\source\repos\QuestAdventure\Engine1\obj\Debug\net5.0\Engine1.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\QuestAdventure\Engine1\obj\Debug\net5.0\Engine1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\source\repos\QuestAdventure\Engine1\obj\Debug\net5.0\Engine1.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\QuestAdventure\Engine1\obj\Debug\net5.0\Engine1.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\QuestAdventure\Engine1\obj\Debug\net5.0\Engine1.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\QuestAdventure\Engine1\obj\Debug\net5.0\Engine1.dll
+C:\Users\Korisnik\source\repos\QuestAdventure\Engine1\obj\Debug\net5.0\ref\Engine1.dll
+C:\Users\Korisnik\source\repos\QuestAdventure\Engine1\obj\Debug\net5.0\Engine1.pdb
